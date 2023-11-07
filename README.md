@@ -17,9 +17,9 @@
 </div>
  :woman_technologist: About Me :
  
- I am a Software QA Engineer from Israel.
+ I am a Software QA Automation Engineer from Israel.
  
- - :telescope: I’m working as a Software QA Engineer and contributing to frontend and backend for building web applications.
+ - :telescope: I’m working as a Software QA Automation Engineer and contributing to frontend and backend for building automation tests.
 
  - :seedling: Exploring Technical Content Writing.
 
